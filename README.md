@@ -1,5 +1,5 @@
 # dynamic-fizz-buzz
-Just a dynamic way of handling the fizz-buzz-bazz. All you need to do is add the rules in the configuration below:
+Just a dynamic way of handling the fizz-buzz-bazz code challenge. All you need to do is add the rules in the configuration below:
 
 ```
 public class DynamicFizzBuzzRequest
